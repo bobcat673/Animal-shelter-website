@@ -1,0 +1,27 @@
+body{
+  background-color: black;
+}
+h1{
+  color: white;
+  text-align: center;
+  text-emphasis: bold;
+  font-weight: 500;
+}
+h2{
+  color: white;
+  text-align: center;
+}
+img{
+  display: block;
+  height: auto;
+  width: 50%;
+  margin: auto;
+}
+p{
+  color: white;
+  float: right;
+  display: block;
+  height: auto;
+  width: 50%;
+  margin: auto;
+}
